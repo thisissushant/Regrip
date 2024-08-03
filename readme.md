@@ -32,3 +32,5 @@ Weather Dashboard is a sleek, user-friendly web application that provides real-t
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 ```
+Check out the live version of the Regrip Weather Application [here](https://regrip-weather.netlify.app/).
+
